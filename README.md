@@ -4,6 +4,20 @@
 
 https://ml-skill-category-prediction.streamlit.app/
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-KNN-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+| Feature                   | Value |
+| ------------------------- | ----: |
+| Demand Count              |  5000 |
+| Demand Percentage         |   4.5 |
+| Median Days Open          |    35 |
+| Salary Premium Percentage |    15 |
+| Repost Rate Percentage    |     8 |
+| Scarcity Score            |    75 |
+
 ## 📌 Project Overview
 
 This project predicts the category of a technical skill using market demand and scarcity indicators. It is a multiclass classification problem built with the K-Nearest Neighbors (KNN) algorithm and deployed using Streamlit.
