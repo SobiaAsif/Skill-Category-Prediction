@@ -1,5 +1,9 @@
 # 💼 Skill Category Prediction
 
+## 🚀 Live Demo
+
+https://ml-skill-category-prediction.streamlit.app/
+
 ## 📌 Project Overview
 
 This project predicts the category of a technical skill using market demand and scarcity indicators. It is a multiclass classification problem built with the K-Nearest Neighbors (KNN) algorithm and deployed using Streamlit.
@@ -57,10 +61,6 @@ The model classifies a skill into one of the following categories:
 - **Pipeline:** Scikit-learn Pipeline
 
 ---
-
-## 📊 Model Performance
-
-- **Accuracy:** 51.99%
 
 ### Evaluation Metrics
 
@@ -125,13 +125,15 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots of the application inside the `screenshots` folder and display them here.
+## 📸 Screenshots
 
-Example:
+### Home Page
 
-- Home Page
-- Prediction Result
-- About Section
+![Home](<screenshots/home.png>)
+
+### About 
+
+![About](<screenshots/About this project.png>)
 
 ---
 
@@ -150,4 +152,4 @@ Example:
 
 Computer Science Graduate
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: *(https://github.com/SobiaAsif/)*
