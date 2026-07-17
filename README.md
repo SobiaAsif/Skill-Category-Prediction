@@ -125,15 +125,15 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Page
 
-![Home](<screenshots/home.png>)
+<img width="1351" height="598" alt="home" src="https://github.com/user-attachments/assets/ce9f9f0c-73df-4b44-9f2a-47d7d2b6be45" />
+
 
 ### About 
 
-![About](<screenshots/About this project.png>)
+<img width="725" height="523" alt="About this project" src="https://github.com/user-attachments/assets/72ba1890-4004-4b8e-b133-4a6c219ad131" />
+
 
 ---
 
